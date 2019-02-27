@@ -1,6 +1,6 @@
 provider "aws" {
   region  = "${var.aws_region}"
-  profile = "default"
+  profile = "jinka"
   version = "1.23.0"
 }
 
